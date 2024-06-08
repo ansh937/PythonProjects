@@ -1,5 +1,5 @@
-from read import *
-from operation import *
+from coursework.read import *
+from coursework.operation import *
 def mainFile():
   run=True
   while run:

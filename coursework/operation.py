@@ -1,4 +1,4 @@
-from read import *
+from coursework.read import *
 def input_validate(data, name):
     all_kitta = []
     i = 0
