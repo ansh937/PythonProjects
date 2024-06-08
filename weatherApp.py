@@ -34,5 +34,5 @@ os.system(f"say 'the temperature of the {cityName} is {kelvin_to_celsius(data["m
 
 os.system(f"say 'The minimum temperature of the {cityName} is {kelvin_to_celsius(data['main']['temp_min']):.2f}'")
 
-os.system()
+
 
