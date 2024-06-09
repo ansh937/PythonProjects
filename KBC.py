@@ -5,6 +5,7 @@ question = input("Do you want to play the game? ")
 if question.lower() != "yes":
     quit()
 else:
+    os.system(f"say 'Lets the game begain'")
     print(f"say'Let's the game begin")
 
 QandA = {
@@ -24,7 +25,7 @@ total_prize = 0
 for question in QandA.keys():
     os.system(f"say '{question}'")
     answer = input(question)
-    correct_answer = QandA[question]
+    correct_answer = QandA[question]#*value is iniclalized with the help of keys in Dictionary
 
     if answer.strip().lower() == correct_answer.strip().lower():
         os.system(f"say 'correct answer '")
