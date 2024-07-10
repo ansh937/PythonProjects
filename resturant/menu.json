@@ -1,0 +1,27 @@
+
+
+{
+  "items": [
+      {"id": 1, "name": "Chicken Biryani", "price": 200, "veg": false, "reviews": [4]},
+      {"id": 2, "name": "Chicken Kabab", "price": 150, "veg": false, "reviews": []},
+      {"id": 3, "name": "Paneer Biryani", "price": 180, "veg": true, "reviews": []},
+      {"id": 4, "name": "Veg Platter", "price": 150, "veg": true, "reviews": []},
+      {"id": 5, "name": "Ice Cream", "price": 100, "veg": true, "reviews": []},
+      {"id": 6, "name": "Sweet Lassi", "price": 80, "veg": true, "reviews": []},
+      {"id": 7, "name": "Gulab Jamoon", "price": 120, "veg": true, "reviews": []},
+      {"id": 8, "name": "Mutton Biryani", "price": 220, "veg": false, "reviews": []},
+      {"id": 9, "name": "Veg Pulav", "price": 120, "veg": true, "reviews": []},
+      {"id": 10, "name": "Butter Chicken", "price": 250, "veg": false, "reviews": []},
+      {"id": 11, "name": "Masala Dosa", "price": 100, "veg": true, "reviews": []},
+      {"id": 12, "name": "Garlic Naan", "price": 50, "veg": true, "reviews": []},
+      {"id": 13, "name": "Palak Paneer", "price": 180, "veg": true, "reviews": []},
+      {"id": 14, "name": "Fish Curry", "price": 220, "veg": false, "reviews": []},
+      {"id": 15, "name": "Dal Makhani", "price": 150, "veg": true, "reviews": []},
+      {"id": 16, "name": "Prawn Curry", "price": 300, "veg": false, "reviews": []},
+      {"id": 17, "name": "Kadai Paneer", "price": 180, "veg": true, "reviews": []},
+      {"id": 18, "name": "Rogan Josh", "price": 260, "veg": false, "reviews": []},
+      {"id": 19, "name": "Hakka Noodles", "price": 140, "veg": true, "reviews": []},
+      {"id": 20, "name": "Paneer Butter Masala", "price": 200, "veg": true, "reviews": []}
+  ]
+}
+
