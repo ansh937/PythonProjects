@@ -27,7 +27,7 @@ with open('data.json', 'w') as file:
 """
 import json
 with open("menu.json","r")as f:
-  data=json.load(f)
+  data=json.load(f)#it reads the json json data and converts back to python dictionary 
 
 
 

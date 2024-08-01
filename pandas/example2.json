@@ -1,0 +1,10 @@
+
+data = {
+  "name": "Wes",
+  "cities_lived": ["Akron", "Nashville", "New York", "San Francisco"],
+  "pet": None,
+  "siblings": [
+      {"name": "Scott", "age": 34, "hobbies": ["guitars", "soccer"]},
+      {"name": "Katie", "age": 42, "hobbies": ["diving", "art"]}
+  ]
+}
